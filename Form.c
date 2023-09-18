@@ -1,3 +1,7 @@
+/*Author - @Avisheikh_Kundu
+The project is to collect data from a student . It works  like Google Form
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
